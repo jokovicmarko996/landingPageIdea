@@ -1,5 +1,5 @@
 import { Geist, Geist_Mono } from "next/font/google";
-import { Jost, DM_Serif_Display } from "@next/font/google";
+import { Jost, DM_Serif_Display } from "next/font/google";
 import "./globals.css";
 import "remixicon/fonts/remixicon.css"; // Import Remix Icon styles
 
